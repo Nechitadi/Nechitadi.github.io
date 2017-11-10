@@ -1,0 +1,65 @@
+body {
+	background-color: #e2e2e3;
+}
+.header {
+	text-align: right;
+	font-family: 'Julius Sans One', sans-serif;
+	text-transform: uppercase;
+	color: #2d3c49;
+}
+#name {
+	margin-bottom: 0px;
+}
+#role {
+	margin-top: 0.1em; 
+	margin-bottom: 2em;
+}
+.header img {
+	float: left;
+}
+.header h1 {
+	font-weight: 100;
+}
+.header h3 {
+	font-size: 1em;
+}
+hr {
+    border: none;
+    height: 5px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+    margin-bottom: 2em;
+}
+.content {
+	width: 90%;
+	margin: auto;
+}
+.body img {
+	width: 100%; 
+}
+.body h1 {
+	margin-top: 50px;
+	margin-bottom: 20px;
+	font-family: 'Julius Sans One', sans-serif;
+	//font-size: 2em;
+}
+.projects-section {
+	width: 100%;
+	text-align: center;
+	padding-left: 0px;
+	margin-bottom: 50px;
+	}
+.project {
+	font-family: 'Julius Sans One', sans-serif;
+	color: #2d3c49;
+}
+.project img {
+	width: 100%;
+	height: auto;
+}
+#project-title {
+	color: #2d3c49;
+	//font-size: 0.5em;
+}
+
