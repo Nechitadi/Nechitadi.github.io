@@ -8,4 +8,4 @@ It contains all the projects that I've worked on during this Nanodegree program.
 
 You can find a link to my github account in the header and links to each project github page.
 
-To view the website, click the following link [GitHub Pages](Nechitadi.github.io) 
+To view the website, click the following link [GitHub Pages](https://nechitadi.github.io/) 
